@@ -1,0 +1,12 @@
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\bin\Debug\LTMT1_K10_N1_NguyenNhuTuan_QLPTH.exe.config
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\bin\Debug\LTMT1_K10_N1_NguyenNhuTuan_QLPTH.exe
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\bin\Debug\LTMT1_K10_N1_NguyenNhuTuan_QLPTH.pdb
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\obj\Debug\LTMT1_K10_N1_NguyenNhuTuan_QLPTH.csprojResolveAssemblyReference.cache
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\obj\Debug\LTMT1_K10_N1_NguyenNhuTuan_QLPTH.FormQLPTH.resources
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\obj\Debug\LTMT1_K10_N1_NguyenNhuTuan_QLPTH.Properties.Resources.resources
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\obj\Debug\LTMT1_K10_N1_NguyenNhuTuan_QLPTH.csproj.GenerateResource.Cache
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\obj\Debug\LTMT1_K10_N1_NguyenNhuTuan_QLPTH.exe
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\obj\Debug\LTMT1_K10_N1_NguyenNhuTuan_QLPTH.pdb
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\obj\Debug\LTMT1_K10_N1_NguyenNhuTuan_QLPTH.Formlichthuchanhphong.resources
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\obj\Debug\RdlCompile.cache
+E:\On Thi Tot Nghiep 2021\LTMT1_N1_k10\Nguyen Nhu Tuan\cau8\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\LTMT1_K10_N1_NguyenNhuTuan_QLPTH\obj\Debug\RdlCompile.compiled
